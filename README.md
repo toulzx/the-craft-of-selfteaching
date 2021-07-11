@@ -8,7 +8,7 @@
 
 **作者：李笑来**
 
-> Fork 注：
+> Fork 注：  
 > 此分支（study）已被设置为 default branch，作为笔者（toulzx）的学习记录。若需要查看原文请翻阅原 Fork 的分支（master）。  
 > 第一次尝试使用 Git + Jupyter 进行学习，慢慢努力，慢慢改进中...  
 > 欢迎与我讨论！  
