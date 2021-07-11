@@ -8,13 +8,6 @@
 
 **作者：李笑来**
 
-> Fork 注：  
-> 此分支（study）已被设置为 default branch，作为笔者（toulzx）的学习记录。若需要查看原文请翻阅原 Fork 的分支（master）。  
-> 第一次尝试使用 Git + Jupyter 进行学习，慢慢努力，慢慢改进中...  
-> 欢迎与我讨论！  
-
-特别感谢**霍炬**（[@virushuo](https://github.com/virushuo)）、**洪强宁**（[@hongqn](https://github.com/hongqn)) 两位良师诤友在此书写作过程中给予我的巨大帮助！
-
 ```python
 # pseudo-code of selfteaching in Python
 
@@ -29,6 +22,12 @@ teach_yourself(coding)
 2019 年 3 月 23 日，新增 Markdown 版本：
 
 > https://github.com/selfteaching/the-craft-of-selfteaching/tree/master/markdown
+
+
+### Fork 注：  
+> 此分支（study）已被设置为 default branch，作为笔者（toulzx）的学习记录。若需要查看原文请翻阅原 Fork 的分支（master）。  
+> 第一次尝试使用 Git + Jupyter 进行学习，慢慢努力，慢慢改进中...  
+> 欢迎与我讨论！  
 
 ### 目录
 
